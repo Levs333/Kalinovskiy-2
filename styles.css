@@ -1,0 +1,87 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: brown;
+    padding: 10px;
+}
+
+header a {
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+}
+
+header img {
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    background-color: white;
+    color: black;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.phones {
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid navy;
+    border-radius: 15px;
+}
+
+p img {
+    height: 150px;
+    width: 200px;
+}
+
+footer {
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+
+.knopka{
+   background-color:white;
+   border:3px solid green;
+
+}
+
+.fishka{
+    color:navy;
+    background-color:white;
+}
+
+.smallxiaomi{
+    width:20px;
+}
+.smallxiaomi2{
+    width:20px;
+    height:20px
+}
+.galochka{
+    width:70px;
+    height:70px
+
+}
+
+body{
+    background-color: rgb(255, 197, 90);
+}
